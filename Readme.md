@@ -40,7 +40,7 @@ React Navigation
 
 1. Clone the repo
 
-git clone https://github.com/your-username/my-todo-app.git
+git clone (https://github.com/QuanNguyennnnn/TodoList.git)
 cd my-todo-app
 
 2. Install dependencies
